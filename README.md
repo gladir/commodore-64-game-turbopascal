@@ -1,6 +1,10 @@
 # commodore-64-game-turbopascal
 Suite de jeux écrit en Pascal (Turbo Pascal ou Free Pascal) étant des clones de jeux existant sur le Commodore 64
 
+![image](https://github.com/gladir/commodore-64-game-turbopascal/assets/11842176/a038461c-2339-4800-802e-c3f731e4d0aa)
+
+![image](https://github.com/gladir/7iles/assets/11842176/b47b5fd1-d748-4d2a-86b6-f8d1b62955de)
+
 # Liste des fichiers
 
 Voici la liste des différents fichiers de jeux proposés dans commodore-64-game-turbopascal :
